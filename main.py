@@ -1,6 +1,6 @@
 # import colorgram
 
-# colors = colorgram.extract(r'file path for the image to analyze', 40)
+# colors = colorgram.extract(r'file path to the image to analyze', 40)
 
 # rgb_colors = []
 
